@@ -8,9 +8,10 @@ The goal is to provide reusable patterns and guidance for building reliable, sca
 
 ## Structure
 
-- `scenarios/` – Real-world streaming scenarios with solutions
-- `resources/` – External links, documentation, and reading material
+- `pyspark_park_streaming.ipynb/` – Real-world pyspark streaming scenarios with solutions
+- `structured-streaming.md/` – Real-world pyspark structured streaming scenarios with solutions
 - `README.md` – Overview of the project and its purpose
+- `template.md` – Overview of the project guide and scope for team collaboration
 
 ## Usage
 
